@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Hello World
 int main(void)
 {
     printf("Olá Mundo!\n");
@@ -10,22 +11,19 @@ int main(void)
         return 0;
 }
 
+// Digite o número
 int main()
 {
-
     int n1, n2;
-
     printf("Digite o primeiro número:")
         scanf_s("%d", &n1)
             printf("Digite o segundo número:")
                 scanf_s("%d", &n2)
                     printf("Os números digitados são: %d e %d\n", n1, n2)
-
-                        system('pause')
-
-                            return 0;
+                        system('pause') return 0;
 }
 
+// Dia da semana
 int main()
 {
     int option;
@@ -55,4 +53,32 @@ int main()
     }
 
     system('pause') return 0;
+}
+
+// Média
+int main()
+{
+    float nota1, nota2, media;
+
+    printf("Digite a primeira nota:");
+    scanf_s("%f", &nota1);
+    printf("Digite a segunda nota:");
+    scanf_s("%f", &nota2);
+
+    media = (nota1 + nota2) / 2;
+
+    if (media >= 7)
+    {
+        printf("APROVADO(A)!")
+    }
+    else
+    {
+        printf("REPROVADO(A)!")
+    }
+
+    printf("Media = %d", media)
+
+        system('pause')
+
+            return 0;
 }
