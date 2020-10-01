@@ -82,3 +82,19 @@ int main()
 
             return 0;
 }
+
+// Do-While
+int a = 10;
+do
+{
+    printf("O valor de a: %d\n", a)
+        a = a + 1
+} while (a <= 40);
+
+int cont;
+for (cont = 30; cont >= 1; cont--)
+{
+    printf("%d\n", cont)
+
+        system('pause') return 0;
+}
