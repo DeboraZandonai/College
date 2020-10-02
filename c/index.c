@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h>
 
 // Hello World
 int main(void)
@@ -97,4 +98,21 @@ for (cont = 30; cont >= 1; cont--)
     printf("%d\n", cont)
 
         system('pause') return 0;
+}
+
+// Procedure
+void soma()
+{
+    float resultado, A, B;
+    printf("Abaixo a rotina da soma");
+    printf("\n*** Digite o primeiro número:");
+
+    scanf_s("%f", &A);
+    printf("*** Digite o segundo número:");
+    scanf_s("%f", &B);
+
+    resultado = A + B;
+
+    printf("\n A soma dos valores digitados é: %.2f\n", resultado);
+    return
 }
