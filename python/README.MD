@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Java 🚀</h1>
+<h1 align="center">🚀 Python 🚀</h1>
 
 ![Badge](/github/pytho.png)
 
