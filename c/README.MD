@@ -17,7 +17,7 @@ Objetivo central será colocar todo aprendizado e código estudado sobre a lingu
 - [x] **Estruturas de repetição;**
 - [x] **Escopos;**
 - [x] **Booleanos;**
-- [x] **Organização.
+- [x] **Organização.**
 
 <hr />
 
