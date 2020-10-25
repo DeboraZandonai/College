@@ -12,11 +12,10 @@ Cujo objetivo central será colocar todo aprendizado e código estudado.
 - [C](./c)
 - [Python](./python)
 - [Java](./java)
+- [Trabalhos](./Trabalhos)
 
 ## 📝 Licença
 
 Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
-
-<hr />
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>

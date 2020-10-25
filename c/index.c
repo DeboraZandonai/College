@@ -1,15 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <conio.h>
 
 // Hello World
-int main(void)
+int main()
 {
-    printf("Olá Mundo!\n");
-
-    system('pause')
-
-        return 0;
+    printf("Hello World");
+    return 0;
 }
 
 // Digite o número
@@ -17,11 +12,10 @@ int main()
 {
     int n1, n2;
     printf("Digite o primeiro número:")
-        scanf_s("%d", &n1)
-            printf("Digite o segundo número:")
-                scanf_s("%d", &n2)
-                    printf("Os números digitados são: %d e %d\n", n1, n2)
-                        system('pause') return 0;
+        scanf("%d", &n1);
+    printf("Digite o segundo número:")
+        scanf("%d", &n2);
+    printf("Os números digitados são: %d e %d\n", n1, n2) return 0;
 }
 
 // Dia da semana
