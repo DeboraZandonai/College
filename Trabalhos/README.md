@@ -6,9 +6,9 @@ Colocar todos trabalhos de código desenvolvido durante a graduação de Engenha
 
 ## 🧭 Índice
 
-- [Exercício - 1](../ExerciseOne)
+- [Exercício - 1](./ExerciseOne)
 - [Exercício - 2](./ExerciseTwo)
-- [Exercício - 3](./Trabalhos/ExerciseThree)
+- [Exercício - 3](./ExerciseThree)
 
 ## 📝 Licença
 
